@@ -1,6 +1,5 @@
 {
-  "pages": [
-    {
+  "pages": [{
     "path": "pages/home/home",
     "style": {}
   }, {
@@ -13,9 +12,20 @@
     "path": "pages/my/my",
     "style": {}
   }],
+  "subPackages": [{
+    "root": "subpkg",
+    "pages": [{
+      "path": "goods_detail/goods_detail",
+      "style": {}
+    }    ,{
+                    "path" : "goods_list/goods_list",
+                    "style" : {}
+                }
+            ]
+  }],
   "globalStyle": {
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "优购shop1",
+    "navigationBarTitleText": "蜂蜜服装优购商城",
     "navigationBarBackgroundColor": "#C00000",
     "backgroundColor": "#FFFFFF"
   },
