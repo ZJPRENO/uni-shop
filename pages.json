@@ -14,14 +14,24 @@
   }],
   "subPackages": [{
     "root": "subpkg",
-    "pages": [{
+    "pages": [
+      {
       "path": "goods_detail/goods_detail",
       "style": {}
-    }    ,{
-                    "path" : "goods_list/goods_list",
-                    "style" : {}
+      }    
+    ,{
+       "path" : "goods_list/goods_list",
+       "style" : {}
+      }
+    ,{
+      "path" : "search/search",
+      "style" :  {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
                 }
-            ]
+                
+    }
+      ]
   }],
   "globalStyle": {
     "navigationBarTextStyle": "white",
