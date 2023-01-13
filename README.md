@@ -30,3 +30,13 @@ https://github.com/ZJPRENO/uni-shop/blob/master/show/分类效果视频.mp4
 
 <video src="https://github.com/ZJPRENO/uni-shop/blob/master/show/分类效果视频.mp4"></video>
  
+ ### 三、搜索search效果图
+ 
+ 1. 效果图1
+
+<img src="https://github.com/ZJPRENO/uni-shop/blob/master/show/搜索效果图1.png" alt="搜索效果图1" width="40%"/>
+
+2. 效果图2
+
+ <img src="https://github.com/ZJPRENO/uni-shop/blob/master/show/搜索效果图2.png" alt="搜索效果图2" width="40%"/>
+ 
